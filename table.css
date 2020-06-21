@@ -1,0 +1,32 @@
+h1{
+	font-size:50px;
+	font-style:bold;
+	color:yellow;
+	text-align:center;
+	text-shadow:1px 2px green;
+}
+h2{
+	font-size:30px;
+	font-style:italic;
+	color:blue;
+	text-align:center;
+	text-shadow:1px 2px green;
+}
+table{
+	width:80%;
+}
+th{
+	font-size:20px;
+	color:white;
+	text-align:left;
+	font-family:Lato;
+	padding:8px;
+	background-color:grey;
+}
+td{
+	font-size:15px;
+	color:white;
+	font-family:Lato;
+	padding:8px;
+	background-color:grey;
+}
